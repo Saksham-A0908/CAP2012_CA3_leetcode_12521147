@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0876-middle-of-the-linked-list) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0143-reorder-list) |
 ## String
 |  |
