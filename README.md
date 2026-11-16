@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
