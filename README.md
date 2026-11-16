@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
