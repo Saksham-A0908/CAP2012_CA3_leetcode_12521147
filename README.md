@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0217-contains-duplicate) |
 | [1572-matrix-diagonal-sum](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/1572-matrix-diagonal-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Saksham-A0908/CAP2012_CA3_leetcode_12521147/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
